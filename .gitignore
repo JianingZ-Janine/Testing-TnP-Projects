@@ -1,6 +1,5 @@
 # Node.js dependencies
 node_modules/
-package-lock.json  # Optional: Include if you use npm and don’t want lock files in Git
 
 # Cypress-specific
 cypress/videos/
