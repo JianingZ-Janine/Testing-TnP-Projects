@@ -1,0 +1,23 @@
+{
+  "name": "testing-tnp-projects",
+  "version": "1.0.0",
+  "description": "This is a repo for practice and projects of Testing Technologies and Programming EC149760/032.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JianingZ-Janine/Testing-TnP-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JianingZ-Janine/Testing-TnP-Projects/issues"
+  },
+  "homepage": "https://github.com/JianingZ-Janine/Testing-TnP-Projects#readme",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}
